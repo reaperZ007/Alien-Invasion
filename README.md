@@ -1,10 +1,13 @@
+
+![Screenshot (197)](https://github.com/user-attachments/assets/7933f67f-730d-4d76-ad65-e6a3232796e4)
+
 # Alien-Invasion
 
 An alien invasion game in Python using Pygame is a classic arcade-style shooter where the player controls a spaceship at the bottom of the screen, tasked with defending Earth from waves of descending alien invaders.
 
 Game Overview:
 Player Controls:
-The player maneuvers a spaceship left and right using the arrow keys (or 'A' and 'D') and fires projectiles upward with the spacebar to destroy incoming alien ships.
+The player maneuvers a spaceship left and right using the arrow keys and fires projectiles upward with the spacebar to destroy incoming alien ships.
 
 Aliens:
 The aliens appear in rows at the top of the screen, moving horizontally in unison. When they hit the edge of the screen, they descend closer to the player, increasing the tension. As the game progresses, their speed increases, making it more challenging.
